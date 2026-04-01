@@ -70,6 +70,7 @@ Mark "Create vault structure" as in_progress.
 Create directories:
 - `Projects/`
 - `Areas/`
+- `Resources/`
 - `Archives/Projects/`
 - `Archives/Areas/`
 - `_solutions/`
@@ -157,7 +158,7 @@ Mark "Set up your profile" as completed.
 
 ### Phase 2: Vault Structure + Tools
 
-Create directories: `Projects/`, `Areas/`, `Archives/Projects/`, `Archives/Areas/`, `_solutions/`.
+Create directories: `Projects/`, `Areas/`, `Resources/`, `Archives/Projects/`, `Archives/Areas/`, `_solutions/`.
 Copy `_templates/_overview.md` → `_overview.md`.
 Copy `_setup/settings.local.json` → `.claude/settings.local.json` (create `.claude/` if needed).
 Create `.env` from `.env.example`.

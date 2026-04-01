@@ -27,6 +27,7 @@ The wizard asks your name, what you do, and what tools you use. Quick setup take
 ```
 Projects/               — Time-bound work with a clear goal (one folder per project)
 Areas/                  — Ongoing responsibilities: clients, roles, personal domains
+Resources/              — Reference material you collect and curate (guides, notes, frameworks)
 Archives/               — Completed or inactive projects and areas
 CLAUDE.md               — Automation rules Claude follows
 _templates/             — File templates (area profiles, project briefs, meeting notes, solutions)

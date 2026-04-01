@@ -198,6 +198,8 @@ Areas/
     ├── activity-log.md   — Chronological work log (newest first)
     └── meetings/         — Meeting note files (YYYY-MM-DD-topic.md)
 
+Resources/              — Reference material you collect and curate (guides, notes, frameworks)
+
 Archives/
 ├── Projects/             — Completed/inactive projects (move from Projects/)
 └── Areas/                — Completed/inactive areas (move from Areas/)
