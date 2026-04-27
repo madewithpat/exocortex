@@ -4,14 +4,14 @@ A personal knowledge base powered by [Obsidian](https://obsidian.md) and [Claude
 
 ## What it does
 
-- **Auto-context:** Mention a client or project and Claude loads their full history
+- **Auto-context:** Mention a topic or project and Claude loads their full history
 - **Auto-logging:** After meaningful work, Claude logs what was done and why
 - **Meeting notes:** Share a transcript and get structured notes, action items, and follow-up emails
 - **Weekly reviews:** Friday summaries of work across all your clients/projects
 - **Knowledge compounding:** Solved problems are documented and auto-retrieved next time
 - **Daily journal:** Cross-project continuity between sessions
 
-Works for anyone — freelancers, consultants, developers, designers, project managers, lawyers, anyone managing ongoing work across multiple clients, teams, and personal goals.
+Works for anyone — freelancers, consultants, developers, designers, project managers, lawyers, anyone managing ongoing work across multiple projects, teams, and personal goals.
 
 ## Getting started
 
